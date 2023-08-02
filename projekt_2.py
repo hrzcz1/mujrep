@@ -28,7 +28,7 @@ def bulls_and_cows():
     print("-" * 70)
     print("Tento program vygeneruje náhodné 4 místné číslo, které je nutno uhádnout.\nZahrajme si hru Bulls And Cows!!")
     print("-" * 70)
-    print(gen_cislo) #použito pro  zobrazení generovaného čísla pro test bulls/cows
+    # print(gen_cislo) #použito pro  zobrazení generovaného čísla pro test bulls/cows
     pokus = 0
     while True:
         pokus += 1
